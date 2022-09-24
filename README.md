@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @BeastBoyRKD-6
-- 👀 I’m interested in frelancing (upwork)
+- 👋 Hi, I’m @BeastBoyRKD-
 - 🌱 I’m currently learning css(web devolopment)
 - 💞️ I’m looking to collaborate on (web developers)
 - 📫 How to reach me 
